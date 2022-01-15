@@ -6,7 +6,7 @@ The user draws a character and the app predicts what that character is.
 - https://www.ghostscript.com/releases/gsdnld.html
 - and then change the version of ghostscript you just downloaded into the code below.
 
-**from PIL import EpsImagePlugin
+**from PIL import EpsImagePlugin\n
 EpsImagePlugin.gs_windows_binary = r'C:\Program Files\gs\gs9.55.0\bin\gswin64c'**
 
 ### Install the necessary libraries
