@@ -2,6 +2,7 @@
 The user draws a character and the app predicts what that character is.
 
 ### You need to download ghostscript via 
+
 - https://www.ghostscript.com/releases/gsdnld.html
 - and then change the version of ghostscript you just downloaded into the code below.
 **from PIL import EpsImagePlugin
